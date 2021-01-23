@@ -1,0 +1,8 @@
+com/pateo/provide/service/ProductService.class
+com/pateo/provide/entities/RedisUrls.class
+com/pateo/provide/entities/Product.class
+com/pateo/provide/controller/ProductController.class
+com/pateo/provide/ProductProvider_8001.class
+com/pateo/provide/entities/User.class
+com/pateo/provide/service/impl/ProductServiceImpl.class
+com/pateo/provide/controller/ConfigClient.class

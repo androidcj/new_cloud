@@ -1,0 +1,23 @@
+server:
+    port: 5001
+
+spring:
+  application:
+    name: demo-project-config
+  cloud:
+    config:
+      server:
+        git: # 远程库的git地址
+           uri: https://github.com/androidcj/config-repository.git
+#    stream:
+#      kafka:
+#        binder:
+#          brokers: 122.51.145.30:9092
+#    bus:
+#      trace:
+#        enabled: true
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"

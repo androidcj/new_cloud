@@ -1,0 +1,14 @@
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/controller/UserHandler.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/controller/ProductController.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/mapper/ProductMapper.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/config/DruidConfig.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/entities/Product.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/entities/RedisUrls.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/ProductProvider_8001.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/service/impl/ProductServiceImpl.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/config/RedisConfig.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/util/RedisUtil.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/controller/ConfigClient.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/service/ProductService.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/entities/User.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-project-provider/src/main/java/com/pateo/provide/controller/RedisController.java

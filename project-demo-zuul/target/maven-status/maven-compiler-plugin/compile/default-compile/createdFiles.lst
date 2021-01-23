@@ -1,0 +1,4 @@
+com/pateo/filter/AuthFilter.class
+com/pateo/constants/Constants.class
+com/pateo/ZuulServer7001.class
+com/pateo/constants/UriConstant.class

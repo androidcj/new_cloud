@@ -1,0 +1,9 @@
+com/cj/project/consumer/entities/RedisUrls.class
+com/cj/project/consumer/service/ProductConsumeService.class
+com/cj/project/consumer/controller/AuthController.class
+com/cj/project/consumer/controller/ProductController_Consumer.class
+com/cj/project/consumer/ProductConsumer_80.class
+com/cj/project/consumer/service/ProductConsumerServiceFallBack.class
+com/cj/project/consumer/config/SwaggerConfigBean.class
+com/cj/project/consumer/entities/User.class
+com/cj/project/consumer/entities/Product.class

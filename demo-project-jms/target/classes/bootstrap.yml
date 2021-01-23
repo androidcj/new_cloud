@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      name: demo-project-jms
+      profile: dev
+      label: master
+      uri: http://localhost:5001
+  profiles:
+    active: dev

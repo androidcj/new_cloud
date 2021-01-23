@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      name: config-eureka-6001
+      profile: dev
+      label: master
+      uri: http://localhost:5001
+  profiles:
+    active: dev

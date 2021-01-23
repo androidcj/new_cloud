@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      name: project-demo-zuul
+      profile: dev
+      label: master
+      uri: http://localhost:5001
+  profiles:
+    active: dev

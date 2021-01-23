@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: demo-project-gateway
+      profile: dev
+      label: master
+      uri: http://localhost:5001

@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      name: config-demo-provide
+      profile: dev
+      label: master
+      uri: http://localhost:5001
+
+

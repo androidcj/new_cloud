@@ -1,0 +1,10 @@
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/service/ProductConsumerServiceFallBack.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/config/SwaggerConfigBean.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/controller/ProductController_Consumer.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/ProductConsumer_80.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/entities/Product.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/entities/RedisUrls.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/service/ProductConsumeService.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/controller/AuthController.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/entities/User.java
+/Users/mac/mysoft/springboot2.0demo/demoprojectdemoparent/project-demo-consumer/src/main/java/com/cj/project/consumer/service/AuthService.java

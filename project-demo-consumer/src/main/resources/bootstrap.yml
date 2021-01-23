@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      name: project-demo-consumer
+      profile: dev
+      label: master
+      uri: http://localhost:5001
+  profiles:
+    active: dev
